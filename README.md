@@ -3,6 +3,8 @@
 
 El repositorio va a contener el codigo bien, .py como .yaml de los codigos usados para crear la función lambda, invocada por medio de CloudFunction, que se encuentra en un Bucket de S3.
 
+Videotutorial: https://drive.google.com/file/d/1vssFoBJGpjf5ld0fok8rhuV426e2_nle/view?usp=sharing
+
 
 # Descripción del repositorio
 
